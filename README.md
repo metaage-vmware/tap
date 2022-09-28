@@ -1,2 +1,1 @@
-# tap
-Tanzu Application Platform
+Sample org structure for application catalog
